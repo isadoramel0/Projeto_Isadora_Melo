@@ -23,4 +23,7 @@ class A {
     public void MA3() {
         System.out.println("MA3");
     }
+    public int getSoma(int a, int b) {
+        return a + b;
+    }
 }
